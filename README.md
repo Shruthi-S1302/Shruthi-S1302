@@ -3,6 +3,6 @@
 ### I also have good coding skills.
 
 - 🔭 I’m currently working on developing good frontend using Javascript frameworks like React. Also taking baby steps into fields like AI, ML and NLP.
-- 🌱 I’m currently learning NLP, UI-design and UX and Backend Web-Development and Cloud Services
+- 🌱 I’m currently learning NLP, UI-design, UX, Backend Web-Development and Cloud Services
 - 👯 I’m looking to collaborate on Frontend Projects
 
