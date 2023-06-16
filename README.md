@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Shruthi S
-### I'm a 3rd year computer Science student, highly passionated in the field of UI, UX design and Frontend Web-development.
+### I'm a final year computer Science student, highly passionated in the field of UI, UX design and Frontend Web-development.
 ### I also have good coding skills.
 
 - 🔭 I’m currently working on developing good frontend using Javascript frameworks like React. Also taking baby steps into fields like AI, ML and NLP.
